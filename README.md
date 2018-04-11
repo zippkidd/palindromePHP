@@ -1,2 +1,2 @@
 # palindromePHP
-Simple palindrom check in PHP
+Simple palindrome check in PHP
